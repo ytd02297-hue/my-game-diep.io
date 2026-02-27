@@ -1,0 +1,15 @@
+{
+  "name": "diep-io-clone",
+  "version": "5.0.0",
+  "description": "Multiplayer Diep.io Clone v5",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "dependencies": {
+    "ws": "^8.17.0"
+  }
+}
